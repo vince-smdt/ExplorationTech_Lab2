@@ -1,1 +1,3 @@
-Impossible d'initialiser le p‚riph‚rique PRN
+if __name__ == "__main__":
+    while True:
+        print("Votre nom est", input("Quel est votre nom?"))
